@@ -1,0 +1,54 @@
+LOCUS       NIPS01000000              43 rc    DNA     linear   PLN 07-JUL-2017
+DEFINITION  Dryadomyces quercus-mongolicae isolate KACC44405, whole genome
+            shotgun sequencing project.
+ACCESSION   NIPS00000000
+VERSION     NIPS00000000.1
+DBLINK      BioProject: PRJNA389222
+            BioSample: SAMN07192611
+KEYWORDS    WGS.
+SOURCE      Dryadomyces quercus-mongolicae
+  ORGANISM  Dryadomyces quercus-mongolicae
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Sordariomycetes; Sordariomycetidae; Ophiostomatales;
+            Ophiostomataceae; Dryadomyces.
+REFERENCE   1  (bases 1 to 43)
+  AUTHORS   Jeon,J., Kim,K.-T., Song,H., Lee,G.-W., Cheong,K., Kim,H., Choi,G.,
+            Lee,Y.-H., Stewart,J.E., Klopfenstein,N.B. and Kim,M.-S.
+  TITLE     Draft Genome Sequence of the Fungus Associated with Oak Wilt
+            Mortality in South Korea, Raffaelea quercus-mongolicae KACC44405
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 43)
+  AUTHORS   Jeon,J., Kim,K.-T., Song,H., Lee,G.-W., Cheong,K., Kim,H., Choi,G.,
+            Lee,Y.-H., Stewart,J.E., Klopfenstein,N.B. and Kim,M.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2017) Interdisciplinary Program in Agricultural
+            Genomics, Seoul National University, (CALS) Gwanak-ro 1 200-5113,
+            Seoul 08826, South Korea
+COMMENT     The Dryadomyces quercus-mongolicae whole genome shotgun (WGS)
+            project has the project accession NIPS00000000.  This version of
+            the project (01) has the accession number NIPS01000000, and
+            consists of sequences NIPS01000001-NIPS01000043.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: 20-SEP-2015
+            Assembly Method        :: A5-miseq pipeline v. 22-May-2015
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 5965.0x
+            Sequencing Technology  :: Illumina NextSeq; Illumina MiSeq;
+                                      Illumina HiSeq
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..43
+                     /organism="Dryadomyces quercus-mongolicae"
+                     /mol_type="genomic DNA"
+                     /isolate="KACC44405"
+                     /host="oak tree"
+                     /type_material="holotype of Raffaelea quercus-mongolicae"
+                     /db_xref="taxon:1423150"
+                     /country="South Korea: Gwangreung Experimental Forest,
+                     Pocheon"
+                     /collection_date="12-May-2005"
+WGS         NIPS01000001-NIPS01000043
+//
+
